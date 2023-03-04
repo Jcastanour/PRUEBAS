@@ -17,7 +17,7 @@ public class Pitagoras {
        ladob = entrada.nextDouble();
        
        hipo = hipotenusa.calcularhipo(ladoa, ladob);
-       System.out.println("la hipotenusa es: " + hipo);
+       System.out.println("la hipotenusa es cambiada: " + hipo);
     }
 
 }
